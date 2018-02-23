@@ -1,2 +1,3 @@
-Hi there! 
-This is just a simple README file.
+Hi there!
+This a simple project, cloning Google homepage, using
+HTML and CSS with some javaScript functionality.
