@@ -1,2 +1,1 @@
-Hi there! 
-This is just a simple README file.
+This project was created with the "create-react-app"
